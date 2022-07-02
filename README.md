@@ -15,4 +15,4 @@ This is a my LBDNS
 
 http://final-webap-1krizlnsiwsvt-517965612.us-east-1.elb.amazonaws.com/
 
-![CHEESE!](udacitychineduarchitecture (1).png)
+![udacitychineduarchitecture (1)](https://user-images.githubusercontent.com/29398127/177012747-de74d389-2ce3-47b5-868d-26900ab1ea1c.png)
