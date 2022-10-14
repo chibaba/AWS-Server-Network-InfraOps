@@ -11,7 +11,7 @@ Students may use a JSON file for increasing the generic nature of the YAML code.
 In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject` accordingly.
 
 
-This is a my LBDNS 
+This is a my LBDNS setting up quality infrastructure
 
 http://final-webap-1krizlnsiwsvt-517965612.us-east-1.elb.amazonaws.com/
 
